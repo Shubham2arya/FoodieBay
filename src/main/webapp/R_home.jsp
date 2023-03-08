@@ -207,7 +207,7 @@
 			}
 			else if(detail==null || detail=="")
 			{
-				alert("detail column cann't be null.");
+				alert("detail column can not be null.");
 			}
 			else if(quantity==null || quantity=="")
 			{
